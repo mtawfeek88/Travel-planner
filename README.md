@@ -22,3 +22,4 @@ An interactive map to plan and track places you want to visit!
 - Browser localStorage
 
 ## Live Demo
+https://mtawfeek88.github.io/Travel-planner/
